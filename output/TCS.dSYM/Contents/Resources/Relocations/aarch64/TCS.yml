@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/priyanshukumar/Documents/DSA Training /output/TCS'
+relocations:     []
+...
